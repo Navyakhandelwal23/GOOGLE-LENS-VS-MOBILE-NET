@@ -1,0 +1,23 @@
+body{
+    background-color: violet;
+}
+
+#balloon{
+    font-size: 23px;
+}
+
+.test_result{
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow:10px 10px 30px gray;
+    background-color: skyblue;
+}
+
+#RDFLBN{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#OUTPUTGOOGLELENS{
+    font-family: 'Franklink Gothic Medium','Arial Narrow',Arial,sans-serif;
+}
